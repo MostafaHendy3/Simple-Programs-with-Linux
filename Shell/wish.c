@@ -5,8 +5,7 @@
 #include <fcntl.h>
 #include <stdlib.h>
 #include <sys/wait.h>
-void Linetokenizer(char *line, char **tokens);
-void CommandExecuter(char **tokens);
+
 int main(int argc, char *argv[])
 {
     if (argc > 2)

@@ -1,6 +1,6 @@
 # Simple-Programs-with-Linux
 
-- Proram One : Simple Shell
+### Proram One : Simple Shell
     - Wish Shell
 
 A simple shell implementation in C.
